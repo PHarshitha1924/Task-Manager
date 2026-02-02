@@ -1,4 +1,3 @@
-# Task-Manager
 # 📝 Task Manager Web Application
 
 ## 📌 Project Overview
